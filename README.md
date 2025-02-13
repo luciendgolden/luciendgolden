@@ -1,9 +1,13 @@
 # Hi, I'm Alex!
 
-I'm a software developer with a focus on backend languages such as Node.js, Nest.js, Java, and Python, as well as frontend languages Vue.js and React. I'm particularly interested in data science and analytical tools, and enjoy working on projects that involve data analysis and visualization.
+I'm a software developer with a focus on backend languages such as Node.js, Nest.js, Java, and Python, as well as frontend languages Vue.js and React. 
+
+I'm particularly interested in data science and analytical tools, and enjoy working on projects that involve data analysis and visualization.
 
 ## Skills
 
+- **Symbolic AI**: rule-based systems
+- **Subsymbolic AI aka ML**: PyTorch, Tensorflow
 - **Backend Languages**: Node.js, Nest.js, Java, Python
 - **Frontend Languages**: Vue.js, React
 - **Data Science Tools**: Pandas, NumPy, Scikit-Learn, Jupyter Notebook
