@@ -1,8 +1,6 @@
-# Hi, I'm Alex!
+# AI Engineer
 
-I'm a software developer with a focus on backend languages such as Node.js, Nest.js, Java, and Python, as well as frontend languages Vue.js and React. 
-
-I'm particularly interested in data science and analytical tools, and enjoy working on projects that involve data analysis and visualization.
+I'm a full-stack developer with a focus on AI engineering. 
 
 ## Skills
 
@@ -11,9 +9,10 @@ I'm particularly interested in data science and analytical tools, and enjoy work
 - **Backend Languages**: Node.js, Nest.js, Java, Python
 - **Frontend Languages**: Vue.js, React
 - **Data Science Tools**: Pandas, NumPy, Scikit-Learn, Jupyter Notebook
-- **Analytical Tools**: Tableau, Power BI, Excel
-- **Database Systems**: MySQL, MongoDB, PostgreSQL
+- **Analytical Tools**: Excel
+- **Database Systems**: MongoDB, MySQL, MongoDB, PostgreSQL
 - **Version Control**: Git
+- **Deployment**: Docker
 
 ## Contact Me
 
