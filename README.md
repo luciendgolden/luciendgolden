@@ -1,6 +1,8 @@
 # AI Engineer
 
-I'm a full-stack developer with a focus on AI engineering. 
+I'm a full-stack developer with a focus on AI engineering.
+
+❤️ for python 🐍 and javascript 
 
 ## Skills
 
