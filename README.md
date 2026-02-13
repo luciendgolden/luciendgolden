@@ -6,12 +6,12 @@ I'm a full-stack developer with a focus on AI engineering.
 
 - **Symbolic AI**: rule-based systems
 - **Subsymbolic AI aka ML**: PyTorch, Tensorflow
-- **Backend Languages**: Node.js, Nest.js, Java, Python
-- **Frontend Languages**: Vue.js, React
+- **Backend Languages**: Node > Python > Java
+- **Frontend Languages**: Vue.js, > React > Angular
 - **Data Science Tools**: Pandas, NumPy, Scikit-Learn, Jupyter Notebook
 - **Analytical Tools**: Excel
-- **Database Systems**: MongoDB, MySQL, MongoDB, PostgreSQL
-- **Version Control**: Git
+- **Database Systems**: MongoDB, MySQL, MongoDB, PostgreSQL, GraphDB, Neo4j
+- **Version Control**: Git, Gitlab
 - **Deployment**: Docker
 
 ## Contact Me
